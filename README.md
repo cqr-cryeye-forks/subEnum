@@ -1,5 +1,5 @@
 # subEnum
-**subEnum** is a small Python3 script used to bruteforce subdomain names of a specified domain. Given a domain name and a wordlist, subEnum can bruteforce the names of subdomains located within your target domain, opening up a much larger attack surface during your engagements.
+**subEnum** is a small Python3 script used to bruteforce subdomain names of a specified domain. Given a domain name and a wordlist, subEnum can bruteforce the names of subdomains located within your target domain, opening up a much larger attack surface during your engagement.
 
 [![asciicast](https://asciinema.org/a/258669.svg)](https://asciinema.org/a/258669)
 
