@@ -5,6 +5,6 @@
 
 Note: This script currently does not support multithreading, but should support it very soon.
 
-##Requirements
+## Requirements
 ---
 Due to the usage of "f" strings, this script must be run using python3. If this becomes too much of an issue I can add python2 support. The `dns.resolver` module is also required, but this should be in your default python3 installation.
