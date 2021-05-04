@@ -60,6 +60,7 @@ def check_sink_hole(domain, resolver):
 
 def main():
     args = parse_args()
+    domain = args.domain.replace('www.', '', 1) if args.domain.startswith('www.') else args.domain
     wordlist = load_wordlist(args.wordlist)
     output = []
 
@@ -68,11 +69,11 @@ def main():
 
     try:
         printBanner()
-        sinkhole = check_sink_hole(domain=args.domain, resolver=args.resolver)
+        sinkhole = check_sink_hole(domain=domain, resolver=args.resolver)
         print_notif("Beginning brute force...")
         with concurrent.futures.ThreadPoolExecutor() as executor:
             # Start the load operations and mark each future with its URL
-            futures = [executor.submit(run_brute, args.domain, subname, args.resolver, sinkhole) for subname in
+            futures = [executor.submit(run_brute, domain, subname, args.resolver, sinkhole) for subname in
                        wordlist]
             for future in concurrent.futures.as_completed(futures):
                 try:

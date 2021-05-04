@@ -33,7 +33,7 @@ def load_wordlist(filename) -> list:
             for subname in f:
                 subname = subname.strip()
                 if subname_pattern.fullmatch(subname.replace('-', '')):
-                    words.append(subname.replace('www.', '', 1) if subname.startswith('www.') else subname)
+                    words.append(subname)
         return words
     except Exception as e:
         print_err(e)
