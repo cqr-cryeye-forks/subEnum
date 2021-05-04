@@ -16,14 +16,6 @@ C_GREEN = "\033[1;32m"
 C_WHITE = "\033[1;37m"
 
 
-def valid_subname(subname: str) -> bool:
-    # no reason to try words with bad characters in them; this is cutting them out of the list.
-    print(re.fullmatch(r'[\w]{0,63}', subname.replace('-', '').strip()))
-    if len(subname) > 63 or not subname.replace('-', '').isascii():
-        return False
-    return True
-
-
 def load_wordlist(filename) -> list:
     file_path = Path(filename)
     subname_pattern = re.compile(r'[\w]{0,63}')
@@ -41,7 +33,7 @@ def load_wordlist(filename) -> list:
             for subname in f:
                 subname = subname.strip()
                 if subname_pattern.fullmatch(subname.replace('-', '')):
-                    words.append(subname)
+                    words.append(subname.replace('www.', '', 1) if subname.startswith('www.') else subname)
         return words
     except Exception as e:
         print_err(e)
