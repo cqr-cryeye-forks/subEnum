@@ -1,0 +1,1482 @@
+[
+  {
+    "domain": "www.google.com",
+    "ip": "172.217.16.36"
+  },
+  {
+    "domain": "smtp.google.com",
+    "ip": "64.233.161.27"
+  },
+  {
+    "domain": "m.google.com",
+    "ip": "216.58.214.203"
+  },
+  {
+    "domain": "mail.google.com",
+    "ip": "216.58.208.197"
+  },
+  {
+    "domain": "wap.google.com",
+    "ip": "172.217.20.14"
+  },
+  {
+    "domain": "blog.google.com",
+    "ip": "172.217.20.9"
+  },
+  {
+    "domain": "email.google.com",
+    "ip": "172.217.20.14"
+  },
+  {
+    "domain": "ns1.google.com",
+    "ip": "216.239.32.10"
+  },
+  {
+    "domain": "vpn.google.com",
+    "ip": "64.9.224.70"
+  },
+  {
+    "domain": "ns2.google.com",
+    "ip": "216.239.34.10"
+  },
+  {
+    "domain": "admin.google.com",
+    "ip": "172.217.20.14"
+  },
+  {
+    "domain": "calendar.google.com",
+    "ip": "172.217.20.14"
+  },
+  {
+    "domain": "web.google.com",
+    "ip": "172.217.20.14"
+  },
+  {
+    "domain": "news.google.com",
+    "ip": "172.217.16.110"
+  },
+  {
+    "domain": "mobile.google.com",
+    "ip": "216.58.214.203"
+  },
+  {
+    "domain": "ns.google.com",
+    "ip": "216.239.32.10"
+  },
+  {
+    "domain": "search.google.com",
+    "ip": "172.217.20.14"
+  },
+  {
+    "domain": "support.google.com",
+    "ip": "216.58.214.238"
+  },
+  {
+    "domain": "files.google.com",
+    "ip": "172.217.20.14"
+  },
+  {
+    "domain": "video.google.com",
+    "ip": "172.217.18.78"
+  },
+  {
+    "domain": "dns.google.com",
+    "ip": "8.8.4.4"
+  },
+  {
+    "domain": "api.google.com",
+    "ip": "172.217.20.4"
+  },
+  {
+    "domain": "images.google.com",
+    "ip": "172.217.19.110"
+  },
+  {
+    "domain": "ns3.google.com",
+    "ip": "216.239.36.10"
+  },
+  {
+    "domain": "docs.google.com",
+    "ip": "172.217.18.78"
+  },
+  {
+    "domain": "download.google.com",
+    "ip": "172.217.16.100"
+  },
+  {
+    "domain": "home.google.com",
+    "ip": "172.217.19.110"
+  },
+  {
+    "domain": "get.google.com",
+    "ip": "172.217.19.110"
+  },
+  {
+    "domain": "ns4.google.com",
+    "ip": "216.239.38.10"
+  },
+  {
+    "domain": "edu.google.com",
+    "ip": "172.217.20.14"
+  },
+  {
+    "domain": "store.google.com",
+    "ip": "172.217.16.110"
+  },
+  {
+    "domain": "d.google.com",
+    "ip": "172.217.20.14"
+  },
+  {
+    "domain": "services.google.com",
+    "ip": "172.217.20.14"
+  },
+  {
+    "domain": "health.google.com",
+    "ip": "216.58.214.238"
+  },
+  {
+    "domain": "help.google.com",
+    "ip": "172.217.20.14"
+  },
+  {
+    "domain": "finance.google.com",
+    "ip": "172.217.20.14"
+  },
+  {
+    "domain": "photo.google.com",
+    "ip": "172.217.20.14"
+  },
+  {
+    "domain": "ads.google.com",
+    "ip": "216.58.208.206"
+  },
+  {
+    "domain": "apps.google.com",
+    "ip": "172.217.20.14"
+  },
+  {
+    "domain": "events.google.com",
+    "ip": "172.217.20.14"
+  },
+  {
+    "domain": "tv.google.com",
+    "ip": "172.217.20.14"
+  },
+  {
+    "domain": "jobs.google.com",
+    "ip": "172.217.20.14"
+  },
+  {
+    "domain": "survey.google.com",
+    "ip": "172.217.20.14"
+  },
+  {
+    "domain": "sms.google.com",
+    "ip": "172.217.20.14"
+  },
+  {
+    "domain": "ww.google.com",
+    "ip": "172.217.20.14"
+  },
+  {
+    "domain": "chat.google.com",
+    "ip": "216.58.214.238"
+  },
+  {
+    "domain": "meet.google.com",
+    "ip": "172.217.20.14"
+  },
+  {
+    "domain": "security.google.com",
+    "ip": "172.217.20.14"
+  },
+  {
+    "domain": "upload.google.com",
+    "ip": "172.217.19.111"
+  },
+  {
+    "domain": "w.google.com",
+    "ip": "172.217.20.14"
+  },
+  {
+    "domain": "gmail.google.com",
+    "ip": "172.217.20.14"
+  },
+  {
+    "domain": "image.google.com",
+    "ip": "172.217.19.110"
+  },
+  {
+    "domain": "ldap.google.com",
+    "ip": "216.239.32.58"
+  },
+  {
+    "domain": "cloud.google.com",
+    "ip": "172.217.20.14"
+  },
+  {
+    "domain": "sites.google.com",
+    "ip": "172.217.16.110"
+  },
+  {
+    "domain": "archive.google.com",
+    "ip": "172.217.20.14"
+  },
+  {
+    "domain": "tools.google.com",
+    "ip": "216.58.208.206"
+  },
+  {
+    "domain": "downloads.google.com",
+    "ip": "172.217.16.100"
+  },
+  {
+    "domain": "careers.google.com",
+    "ip": "172.217.18.78"
+  },
+  {
+    "domain": "www4.google.com",
+    "ip": "172.217.19.110"
+  },
+  {
+    "domain": "dl.google.com",
+    "ip": "172.217.18.78"
+  },
+  {
+    "domain": "feeds.google.com",
+    "ip": "108.170.217.160"
+  },
+  {
+    "domain": "book.google.com",
+    "ip": "172.217.19.110"
+  },
+  {
+    "domain": "1.google.com",
+    "ip": "172.217.20.14"
+  },
+  {
+    "domain": "videos.google.com",
+    "ip": "172.217.18.78"
+  },
+  {
+    "domain": "photos.google.com",
+    "ip": "172.217.18.78"
+  },
+  {
+    "domain": "games.google.com",
+    "ip": "172.217.20.14"
+  },
+  {
+    "domain": "groups.google.com",
+    "ip": "74.125.205.113"
+  },
+  {
+    "domain": "research.google.com",
+    "ip": "172.217.20.14"
+  },
+  {
+    "domain": "forms.google.com",
+    "ip": "172.217.20.14"
+  },
+  {
+    "domain": "music.google.com",
+    "ip": "172.217.20.14"
+  },
+  {
+    "domain": "map.google.com",
+    "ip": "172.217.18.78"
+  },
+  {
+    "domain": "design.google.com",
+    "ip": "172.217.19.110"
+  },
+  {
+    "domain": "labs.google.com",
+    "ip": "172.217.20.14"
+  },
+  {
+    "domain": "education.google.com",
+    "ip": "172.217.18.78"
+  },
+  {
+    "domain": "www5.google.com",
+    "ip": "172.217.20.4"
+  },
+  {
+    "domain": "travel.google.com",
+    "ip": "172.217.19.110"
+  },
+  {
+    "domain": "account.google.com",
+    "ip": "172.217.20.14"
+  },
+  {
+    "domain": "business.google.com",
+    "ip": "216.58.214.238"
+  },
+  {
+    "domain": "local.google.com",
+    "ip": "216.58.214.238"
+  },
+  {
+    "domain": "time.google.com",
+    "ip": "216.239.35.12"
+  },
+  {
+    "domain": "code.google.com",
+    "ip": "172.217.18.78"
+  },
+  {
+    "domain": "partners.google.com",
+    "ip": "172.217.20.14"
+  },
+  {
+    "domain": "shopping.google.com",
+    "ip": "173.194.73.92"
+  },
+  {
+    "domain": "maps.google.com",
+    "ip": "172.217.18.78"
+  },
+  {
+    "domain": "corp.google.com",
+    "ip": "64.233.167.129"
+  },
+  {
+    "domain": "accounts.google.com",
+    "ip": "172.217.20.13"
+  },
+  {
+    "domain": "developer.google.com",
+    "ip": "216.58.214.206"
+  },
+  {
+    "domain": "directory.google.com",
+    "ip": "172.217.20.14"
+  },
+  {
+    "domain": "desktop.google.com",
+    "ip": "172.217.16.100"
+  },
+  {
+    "domain": "lp.google.com",
+    "ip": "172.217.20.14"
+  },
+  {
+    "domain": "investors.google.com",
+    "ip": "172.217.20.14"
+  },
+  {
+    "domain": "sandbox.google.com",
+    "ip": "64.233.165.81"
+  },
+  {
+    "domain": "catalog.google.com",
+    "ip": "172.217.19.110"
+  },
+  {
+    "domain": "investor.google.com",
+    "ip": "172.217.20.14"
+  },
+  {
+    "domain": "doc.google.com",
+    "ip": "172.217.16.110"
+  },
+  {
+    "domain": "whois.google.com",
+    "ip": "216.239.34.22"
+  },
+  {
+    "domain": "id.google.com",
+    "ip": "172.217.19.99"
+  },
+  {
+    "domain": "enterprise.google.com",
+    "ip": "172.217.20.14"
+  },
+  {
+    "domain": "work.google.com",
+    "ip": "172.217.20.14"
+  },
+  {
+    "domain": "mars.google.com",
+    "ip": "172.217.20.14"
+  },
+  {
+    "domain": "pay.google.com",
+    "ip": "173.194.222.92"
+  },
+  {
+    "domain": "movie.google.com",
+    "ip": "172.217.20.14"
+  },
+  {
+    "domain": "sb.google.com",
+    "ip": "172.217.19.110"
+  },
+  {
+    "domain": "yp.google.com",
+    "ip": "172.217.20.14"
+  },
+  {
+    "domain": "print.google.com",
+    "ip": "172.217.16.100"
+  },
+  {
+    "domain": "asia.google.com",
+    "ip": "172.217.19.100"
+  },
+  {
+    "domain": "history.google.com",
+    "ip": "64.233.161.138"
+  },
+  {
+    "domain": "learning.google.com",
+    "ip": "216.58.214.206"
+  },
+  {
+    "domain": "gg.google.com",
+    "ip": "172.217.16.110"
+  },
+  {
+    "domain": "one.google.com",
+    "ip": "172.217.16.46"
+  },
+  {
+    "domain": "developers.google.com",
+    "ip": "172.217.20.14"
+  },
+  {
+    "domain": "about.google.com",
+    "ip": "172.217.20.14"
+  },
+  {
+    "domain": "gd.google.com",
+    "ip": "172.217.16.100"
+  },
+  {
+    "domain": "earth.google.com",
+    "ip": "172.217.20.14"
+  },
+  {
+    "domain": "safety.google.com",
+    "ip": "172.217.20.14"
+  },
+  {
+    "domain": "fi.google.com",
+    "ip": "172.217.20.14"
+  },
+  {
+    "domain": "www6.google.com",
+    "ip": "216.58.214.228"
+  },
+  {
+    "domain": "mt.google.com",
+    "ip": "172.217.18.78"
+  },
+  {
+    "domain": "voice.google.com",
+    "ip": "216.58.214.238"
+  },
+  {
+    "domain": "drive.google.com",
+    "ip": "216.58.209.14"
+  },
+  {
+    "domain": "billing.google.com",
+    "ip": "172.217.18.78"
+  },
+  {
+    "domain": "play.google.com",
+    "ip": "216.58.208.206"
+  },
+  {
+    "domain": "books.google.com",
+    "ip": "172.217.19.110"
+  },
+  {
+    "domain": "products.google.com",
+    "ip": "172.217.20.14"
+  },
+  {
+    "domain": "talk.google.com",
+    "ip": "142.250.27.125"
+  },
+  {
+    "domain": "uploads.google.com",
+    "ip": "108.170.217.160"
+  },
+  {
+    "domain": "aa.google.com",
+    "ip": "172.217.20.14"
+  },
+  {
+    "domain": "plus.google.com",
+    "ip": "172.217.18.78"
+  },
+  {
+    "domain": "kh.google.com",
+    "ip": "216.58.214.206"
+  },
+  {
+    "domain": "group.google.com",
+    "ip": "74.125.205.139"
+  },
+  {
+    "domain": "pki.google.com",
+    "ip": "172.217.20.14"
+  },
+  {
+    "domain": "www9.google.com",
+    "ip": "172.217.20.14"
+  },
+  {
+    "domain": "analytics.google.com",
+    "ip": "172.217.16.46"
+  },
+  {
+    "domain": "webmaster.google.com",
+    "ip": "172.217.20.14"
+  },
+  {
+    "domain": "sky.google.com",
+    "ip": "172.217.20.14"
+  },
+  {
+    "domain": "translate.google.com",
+    "ip": "172.217.20.14"
+  },
+  {
+    "domain": "ap.google.com",
+    "ip": "172.217.16.100"
+  },
+  {
+    "domain": "europe.google.com",
+    "ip": "172.217.19.100"
+  },
+  {
+    "domain": "movies.google.com",
+    "ip": "172.217.20.14"
+  },
+  {
+    "domain": "mini.google.com",
+    "ip": "172.217.20.14"
+  },
+  {
+    "domain": "wifi.google.com",
+    "ip": "173.194.76.123"
+  },
+  {
+    "domain": "nexus.google.com",
+    "ip": "172.217.20.14"
+  },
+  {
+    "domain": "xmpp.google.com",
+    "ip": "142.250.27.125"
+  },
+  {
+    "domain": "www10.google.com",
+    "ip": "216.58.214.206"
+  },
+  {
+    "domain": "amp.google.com",
+    "ip": "172.217.20.14"
+  },
+  {
+    "domain": "moon.google.com",
+    "ip": "172.217.20.14"
+  },
+  {
+    "domain": "reader.google.com",
+    "ip": "172.217.16.100"
+  },
+  {
+    "domain": "ai.google.com",
+    "ip": "216.58.214.238"
+  },
+  {
+    "domain": "channel.google.com",
+    "ip": "172.217.19.110"
+  },
+  {
+    "domain": "alerts.google.com",
+    "ip": "172.217.20.14"
+  },
+  {
+    "domain": "dir.google.com",
+    "ip": "172.217.20.14"
+  },
+  {
+    "domain": "on.google.com",
+    "ip": "172.217.20.14"
+  },
+  {
+    "domain": "jump.google.com",
+    "ip": "172.217.20.14"
+  },
+  {
+    "domain": "express.google.com",
+    "ip": "172.217.16.110"
+  },
+  {
+    "domain": "vault.google.com",
+    "ip": "172.217.19.110"
+  },
+  {
+    "domain": "fusion.google.com",
+    "ip": "172.217.16.100"
+  },
+  {
+    "domain": "gw1.google.com",
+    "ip": "216.58.214.228"
+  },
+  {
+    "domain": "cse.google.com",
+    "ip": "172.217.19.110"
+  },
+  {
+    "domain": "chrome.google.com",
+    "ip": "216.58.208.206"
+  },
+  {
+    "domain": "sorry.google.com",
+    "ip": "216.58.214.228"
+  },
+  {
+    "domain": "vs.google.com",
+    "ip": "173.194.73.192"
+  },
+  {
+    "domain": "base.google.com",
+    "ip": "172.217.20.14"
+  },
+  {
+    "domain": "goto.google.com",
+    "ip": "172.217.20.14"
+  },
+  {
+    "domain": "notebook.google.com",
+    "ip": "172.217.19.110"
+  },
+  {
+    "domain": "wave.google.com",
+    "ip": "172.217.19.110"
+  },
+  {
+    "domain": "isp.google.com",
+    "ip": "172.217.20.14"
+  },
+  {
+    "domain": "domains.google.com",
+    "ip": "172.217.18.78"
+  },
+  {
+    "domain": "scholar.google.com",
+    "ip": "172.217.16.100"
+  },
+  {
+    "domain": "flight.google.com",
+    "ip": "172.217.20.14"
+  },
+  {
+    "domain": "privacy.google.com",
+    "ip": "172.217.18.78"
+  },
+  {
+    "domain": "advisor.google.com",
+    "ip": "172.217.20.14"
+  },
+  {
+    "domain": "apis.google.com",
+    "ip": "172.217.18.78"
+  },
+  {
+    "domain": "buzz.google.com",
+    "ip": "172.217.20.14"
+  },
+  {
+    "domain": "toolbox.google.com",
+    "ip": "172.217.18.78"
+  },
+  {
+    "domain": "profiles.google.com",
+    "ip": "172.217.18.78"
+  },
+  {
+    "domain": "activity.google.com",
+    "ip": "64.233.161.100"
+  },
+  {
+    "domain": "nntp.google.com",
+    "ip": "64.233.166.140"
+  },
+  {
+    "domain": "bulletin.google.com",
+    "ip": "172.217.20.14"
+  },
+  {
+    "domain": "pack.google.com",
+    "ip": "172.217.16.100"
+  },
+  {
+    "domain": "purchase.google.com",
+    "ip": "172.217.20.14"
+  },
+  {
+    "domain": "ditu.google.com",
+    "ip": "216.58.214.238"
+  },
+  {
+    "domain": "transit.google.com",
+    "ip": "172.217.20.14"
+  },
+  {
+    "domain": "dai.google.com",
+    "ip": "172.217.20.14"
+  },
+  {
+    "domain": "registry.google.com",
+    "ip": "172.217.18.78"
+  },
+  {
+    "domain": "www.google.com",
+    "ip": "142.250.75.4"
+  },
+  {
+    "domain": "mail.google.com",
+    "ip": "216.58.208.197"
+  },
+  {
+    "domain": "smtp.google.com",
+    "ip": "108.177.14.27"
+  },
+  {
+    "domain": "admin.google.com",
+    "ip": "172.217.16.14"
+  },
+  {
+    "domain": "m.google.com",
+    "ip": "216.58.214.203"
+  },
+  {
+    "domain": "email.google.com",
+    "ip": "172.217.20.14"
+  },
+  {
+    "domain": "ns1.google.com",
+    "ip": "216.239.32.10"
+  },
+  {
+    "domain": "vpn.google.com",
+    "ip": "64.9.224.70"
+  },
+  {
+    "domain": "wap.google.com",
+    "ip": "172.217.20.14"
+  },
+  {
+    "domain": "ns2.google.com",
+    "ip": "216.239.34.10"
+  },
+  {
+    "domain": "blog.google.com",
+    "ip": "172.217.20.9"
+  },
+  {
+    "domain": "calendar.google.com",
+    "ip": "172.217.20.14"
+  },
+  {
+    "domain": "mobile.google.com",
+    "ip": "216.58.214.203"
+  },
+  {
+    "domain": "web.google.com",
+    "ip": "172.217.20.14"
+  },
+  {
+    "domain": "news.google.com",
+    "ip": "172.217.16.110"
+  },
+  {
+    "domain": "search.google.com",
+    "ip": "172.217.16.14"
+  },
+  {
+    "domain": "support.google.com",
+    "ip": "216.58.214.238"
+  },
+  {
+    "domain": "ns.google.com",
+    "ip": "216.239.32.10"
+  },
+  {
+    "domain": "video.google.com",
+    "ip": "172.217.18.78"
+  },
+  {
+    "domain": "files.google.com",
+    "ip": "172.217.20.14"
+  },
+  {
+    "domain": "api.google.com",
+    "ip": "172.217.20.4"
+  },
+  {
+    "domain": "dns.google.com",
+    "ip": "8.8.4.4"
+  },
+  {
+    "domain": "docs.google.com",
+    "ip": "172.217.18.78"
+  },
+  {
+    "domain": "ns3.google.com",
+    "ip": "216.239.36.10"
+  },
+  {
+    "domain": "images.google.com",
+    "ip": "172.217.19.110"
+  },
+  {
+    "domain": "download.google.com",
+    "ip": "172.217.16.100"
+  },
+  {
+    "domain": "home.google.com",
+    "ip": "172.217.19.110"
+  },
+  {
+    "domain": "edu.google.com",
+    "ip": "172.217.20.14"
+  },
+  {
+    "domain": "get.google.com",
+    "ip": "172.217.19.110"
+  },
+  {
+    "domain": "ns4.google.com",
+    "ip": "216.239.38.10"
+  },
+  {
+    "domain": "d.google.com",
+    "ip": "172.217.20.14"
+  },
+  {
+    "domain": "store.google.com",
+    "ip": "172.217.16.110"
+  },
+  {
+    "domain": "health.google.com",
+    "ip": "216.58.214.238"
+  },
+  {
+    "domain": "services.google.com",
+    "ip": "172.217.20.14"
+  },
+  {
+    "domain": "help.google.com",
+    "ip": "172.217.20.14"
+  },
+  {
+    "domain": "apps.google.com",
+    "ip": "172.217.20.14"
+  },
+  {
+    "domain": "photo.google.com",
+    "ip": "172.217.20.14"
+  },
+  {
+    "domain": "finance.google.com",
+    "ip": "172.217.20.14"
+  },
+  {
+    "domain": "events.google.com",
+    "ip": "172.217.20.14"
+  },
+  {
+    "domain": "ads.google.com",
+    "ip": "172.217.16.110"
+  },
+  {
+    "domain": "survey.google.com",
+    "ip": "172.217.20.14"
+  },
+  {
+    "domain": "jobs.google.com",
+    "ip": "172.217.20.14"
+  },
+  {
+    "domain": "sms.google.com",
+    "ip": "172.217.20.14"
+  },
+  {
+    "domain": "tv.google.com",
+    "ip": "172.217.20.14"
+  },
+  {
+    "domain": "ww.google.com",
+    "ip": "172.217.20.14"
+  },
+  {
+    "domain": "chat.google.com",
+    "ip": "216.58.214.238"
+  },
+  {
+    "domain": "meet.google.com",
+    "ip": "172.217.20.14"
+  },
+  {
+    "domain": "security.google.com",
+    "ip": "172.217.20.14"
+  },
+  {
+    "domain": "image.google.com",
+    "ip": "172.217.19.110"
+  },
+  {
+    "domain": "upload.google.com",
+    "ip": "172.217.19.111"
+  },
+  {
+    "domain": "w.google.com",
+    "ip": "172.217.20.14"
+  },
+  {
+    "domain": "gmail.google.com",
+    "ip": "172.217.20.14"
+  },
+  {
+    "domain": "ldap.google.com",
+    "ip": "216.239.32.58"
+  },
+  {
+    "domain": "cloud.google.com",
+    "ip": "172.217.20.14"
+  },
+  {
+    "domain": "sites.google.com",
+    "ip": "172.217.16.110"
+  },
+  {
+    "domain": "archive.google.com",
+    "ip": "172.217.20.14"
+  },
+  {
+    "domain": "tools.google.com",
+    "ip": "216.58.208.206"
+  },
+  {
+    "domain": "downloads.google.com",
+    "ip": "172.217.16.100"
+  },
+  {
+    "domain": "careers.google.com",
+    "ip": "172.217.18.78"
+  },
+  {
+    "domain": "www4.google.com",
+    "ip": "172.217.19.110"
+  },
+  {
+    "domain": "dl.google.com",
+    "ip": "172.217.18.78"
+  },
+  {
+    "domain": "feeds.google.com",
+    "ip": "108.170.217.160"
+  },
+  {
+    "domain": "book.google.com",
+    "ip": "172.217.19.110"
+  },
+  {
+    "domain": "1.google.com",
+    "ip": "172.217.20.14"
+  },
+  {
+    "domain": "videos.google.com",
+    "ip": "172.217.18.78"
+  },
+  {
+    "domain": "photos.google.com",
+    "ip": "172.217.18.78"
+  },
+  {
+    "domain": "games.google.com",
+    "ip": "172.217.20.14"
+  },
+  {
+    "domain": "forms.google.com",
+    "ip": "172.217.20.14"
+  },
+  {
+    "domain": "groups.google.com",
+    "ip": "74.125.205.139"
+  },
+  {
+    "domain": "research.google.com",
+    "ip": "172.217.20.14"
+  },
+  {
+    "domain": "music.google.com",
+    "ip": "172.217.20.14"
+  },
+  {
+    "domain": "map.google.com",
+    "ip": "172.217.18.78"
+  },
+  {
+    "domain": "design.google.com",
+    "ip": "172.217.19.110"
+  },
+  {
+    "domain": "labs.google.com",
+    "ip": "172.217.20.14"
+  },
+  {
+    "domain": "education.google.com",
+    "ip": "172.217.18.78"
+  },
+  {
+    "domain": "www5.google.com",
+    "ip": "172.217.20.4"
+  },
+  {
+    "domain": "account.google.com",
+    "ip": "172.217.20.14"
+  },
+  {
+    "domain": "travel.google.com",
+    "ip": "172.217.19.110"
+  },
+  {
+    "domain": "business.google.com",
+    "ip": "216.58.214.238"
+  },
+  {
+    "domain": "local.google.com",
+    "ip": "216.58.214.238"
+  },
+  {
+    "domain": "time.google.com",
+    "ip": "216.239.35.0"
+  },
+  {
+    "domain": "code.google.com",
+    "ip": "172.217.18.78"
+  },
+  {
+    "domain": "partners.google.com",
+    "ip": "172.217.20.14"
+  },
+  {
+    "domain": "shopping.google.com",
+    "ip": "173.194.73.92"
+  },
+  {
+    "domain": "corp.google.com",
+    "ip": "64.233.167.129"
+  },
+  {
+    "domain": "maps.google.com",
+    "ip": "172.217.18.78"
+  },
+  {
+    "domain": "accounts.google.com",
+    "ip": "172.217.20.13"
+  },
+  {
+    "domain": "developer.google.com",
+    "ip": "216.58.214.206"
+  },
+  {
+    "domain": "directory.google.com",
+    "ip": "172.217.20.14"
+  },
+  {
+    "domain": "desktop.google.com",
+    "ip": "172.217.16.100"
+  },
+  {
+    "domain": "lp.google.com",
+    "ip": "172.217.20.14"
+  },
+  {
+    "domain": "investors.google.com",
+    "ip": "172.217.20.14"
+  },
+  {
+    "domain": "sandbox.google.com",
+    "ip": "64.233.165.81"
+  },
+  {
+    "domain": "catalog.google.com",
+    "ip": "172.217.19.110"
+  },
+  {
+    "domain": "investor.google.com",
+    "ip": "172.217.20.14"
+  },
+  {
+    "domain": "whois.google.com",
+    "ip": "216.239.34.22"
+  },
+  {
+    "domain": "doc.google.com",
+    "ip": "172.217.16.110"
+  },
+  {
+    "domain": "id.google.com",
+    "ip": "216.58.215.99"
+  },
+  {
+    "domain": "enterprise.google.com",
+    "ip": "172.217.20.14"
+  },
+  {
+    "domain": "mars.google.com",
+    "ip": "172.217.20.14"
+  },
+  {
+    "domain": "work.google.com",
+    "ip": "172.217.20.14"
+  },
+  {
+    "domain": "pay.google.com",
+    "ip": "173.194.222.92"
+  },
+  {
+    "domain": "movie.google.com",
+    "ip": "172.217.20.14"
+  },
+  {
+    "domain": "sb.google.com",
+    "ip": "172.217.19.110"
+  },
+  {
+    "domain": "yp.google.com",
+    "ip": "172.217.20.14"
+  },
+  {
+    "domain": "print.google.com",
+    "ip": "172.217.16.100"
+  },
+  {
+    "domain": "asia.google.com",
+    "ip": "172.217.19.100"
+  },
+  {
+    "domain": "history.google.com",
+    "ip": "64.233.161.138"
+  },
+  {
+    "domain": "learning.google.com",
+    "ip": "216.58.214.206"
+  },
+  {
+    "domain": "gg.google.com",
+    "ip": "172.217.16.110"
+  },
+  {
+    "domain": "one.google.com",
+    "ip": "172.217.20.14"
+  },
+  {
+    "domain": "developers.google.com",
+    "ip": "172.217.20.14"
+  },
+  {
+    "domain": "about.google.com",
+    "ip": "172.217.20.14"
+  },
+  {
+    "domain": "gd.google.com",
+    "ip": "172.217.16.100"
+  },
+  {
+    "domain": "earth.google.com",
+    "ip": "172.217.20.14"
+  },
+  {
+    "domain": "safety.google.com",
+    "ip": "172.217.20.14"
+  },
+  {
+    "domain": "fi.google.com",
+    "ip": "172.217.20.14"
+  },
+  {
+    "domain": "www6.google.com",
+    "ip": "216.58.214.228"
+  },
+  {
+    "domain": "mt.google.com",
+    "ip": "172.217.18.78"
+  },
+  {
+    "domain": "drive.google.com",
+    "ip": "216.58.214.206"
+  },
+  {
+    "domain": "voice.google.com",
+    "ip": "216.58.214.238"
+  },
+  {
+    "domain": "billing.google.com",
+    "ip": "172.217.18.78"
+  },
+  {
+    "domain": "books.google.com",
+    "ip": "172.217.19.110"
+  },
+  {
+    "domain": "play.google.com",
+    "ip": "216.58.208.206"
+  },
+  {
+    "domain": "products.google.com",
+    "ip": "172.217.20.14"
+  },
+  {
+    "domain": "talk.google.com",
+    "ip": "142.250.27.125"
+  },
+  {
+    "domain": "uploads.google.com",
+    "ip": "108.170.217.160"
+  },
+  {
+    "domain": "kh.google.com",
+    "ip": "216.58.214.206"
+  },
+  {
+    "domain": "aa.google.com",
+    "ip": "172.217.20.14"
+  },
+  {
+    "domain": "plus.google.com",
+    "ip": "172.217.18.78"
+  },
+  {
+    "domain": "group.google.com",
+    "ip": "74.125.205.138"
+  },
+  {
+    "domain": "pki.google.com",
+    "ip": "172.217.20.14"
+  },
+  {
+    "domain": "www9.google.com",
+    "ip": "172.217.20.14"
+  },
+  {
+    "domain": "analytics.google.com",
+    "ip": "172.217.16.46"
+  },
+  {
+    "domain": "webmaster.google.com",
+    "ip": "172.217.20.14"
+  },
+  {
+    "domain": "sky.google.com",
+    "ip": "172.217.20.14"
+  },
+  {
+    "domain": "translate.google.com",
+    "ip": "172.217.20.14"
+  },
+  {
+    "domain": "ap.google.com",
+    "ip": "172.217.16.100"
+  },
+  {
+    "domain": "europe.google.com",
+    "ip": "172.217.19.100"
+  },
+  {
+    "domain": "movies.google.com",
+    "ip": "172.217.20.14"
+  },
+  {
+    "domain": "mini.google.com",
+    "ip": "172.217.20.14"
+  },
+  {
+    "domain": "wifi.google.com",
+    "ip": "173.194.76.123"
+  },
+  {
+    "domain": "nexus.google.com",
+    "ip": "172.217.20.14"
+  },
+  {
+    "domain": "xmpp.google.com",
+    "ip": "142.250.27.125"
+  },
+  {
+    "domain": "www10.google.com",
+    "ip": "216.58.214.206"
+  },
+  {
+    "domain": "amp.google.com",
+    "ip": "172.217.20.14"
+  },
+  {
+    "domain": "moon.google.com",
+    "ip": "172.217.20.14"
+  },
+  {
+    "domain": "reader.google.com",
+    "ip": "172.217.16.100"
+  },
+  {
+    "domain": "ai.google.com",
+    "ip": "216.58.214.238"
+  },
+  {
+    "domain": "channel.google.com",
+    "ip": "172.217.19.110"
+  },
+  {
+    "domain": "alerts.google.com",
+    "ip": "172.217.20.14"
+  },
+  {
+    "domain": "dir.google.com",
+    "ip": "172.217.20.14"
+  },
+  {
+    "domain": "on.google.com",
+    "ip": "172.217.20.14"
+  },
+  {
+    "domain": "jump.google.com",
+    "ip": "172.217.20.14"
+  },
+  {
+    "domain": "express.google.com",
+    "ip": "172.217.16.110"
+  },
+  {
+    "domain": "vault.google.com",
+    "ip": "172.217.19.110"
+  },
+  {
+    "domain": "fusion.google.com",
+    "ip": "172.217.16.100"
+  },
+  {
+    "domain": "gw1.google.com",
+    "ip": "216.58.214.228"
+  },
+  {
+    "domain": "cse.google.com",
+    "ip": "172.217.16.46"
+  },
+  {
+    "domain": "chrome.google.com",
+    "ip": "172.217.20.14"
+  },
+  {
+    "domain": "sorry.google.com",
+    "ip": "216.58.214.228"
+  },
+  {
+    "domain": "vs.google.com",
+    "ip": "173.194.73.192"
+  },
+  {
+    "domain": "base.google.com",
+    "ip": "172.217.20.14"
+  },
+  {
+    "domain": "goto.google.com",
+    "ip": "172.217.20.14"
+  },
+  {
+    "domain": "notebook.google.com",
+    "ip": "172.217.19.110"
+  },
+  {
+    "domain": "wave.google.com",
+    "ip": "172.217.19.110"
+  },
+  {
+    "domain": "isp.google.com",
+    "ip": "172.217.20.14"
+  },
+  {
+    "domain": "domains.google.com",
+    "ip": "172.217.18.78"
+  },
+  {
+    "domain": "scholar.google.com",
+    "ip": "172.217.16.100"
+  },
+  {
+    "domain": "flight.google.com",
+    "ip": "172.217.20.14"
+  },
+  {
+    "domain": "privacy.google.com",
+    "ip": "172.217.18.78"
+  },
+  {
+    "domain": "advisor.google.com",
+    "ip": "172.217.20.14"
+  },
+  {
+    "domain": "apis.google.com",
+    "ip": "172.217.18.78"
+  },
+  {
+    "domain": "buzz.google.com",
+    "ip": "172.217.20.14"
+  },
+  {
+    "domain": "toolbox.google.com",
+    "ip": "172.217.18.78"
+  },
+  {
+    "domain": "profiles.google.com",
+    "ip": "172.217.18.78"
+  },
+  {
+    "domain": "activity.google.com",
+    "ip": "64.233.161.101"
+  },
+  {
+    "domain": "nntp.google.com",
+    "ip": "64.233.166.140"
+  },
+  {
+    "domain": "bulletin.google.com",
+    "ip": "172.217.20.14"
+  },
+  {
+    "domain": "pack.google.com",
+    "ip": "172.217.16.100"
+  },
+  {
+    "domain": "ditu.google.com",
+    "ip": "216.58.214.238"
+  },
+  {
+    "domain": "purchase.google.com",
+    "ip": "172.217.20.14"
+  },
+  {
+    "domain": "transit.google.com",
+    "ip": "172.217.20.14"
+  },
+  {
+    "domain": "dai.google.com",
+    "ip": "172.217.20.14"
+  },
+  {
+    "domain": "registry.google.com",
+    "ip": "172.217.18.78"
+  }
+]
